@@ -1,6 +1,6 @@
 ** LAX Token — Technical Overview
 
-* LAX is the native SPL token of LanaExchange.com, a decentralized exchange (DEX) built on the Solana blockchain, optimized for high-frequency trading, low-latency execution, and scalable liquidity provisioning.
+* LAX is the native SPL token of LanaExchange.com, a centralized exchange (CEX), optimized for high-frequency trading, low-latency execution, and scalable liquidity provisioning.
 
 ** 🔗 Token Architecture
 * Token Standard: SPL (Solana Program Library)
